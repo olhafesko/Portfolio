@@ -1,0 +1,8 @@
+Steps to reproduce:
+Open File manager application
+Open any folder with content
+Check "Select all" checkbox
+
+Expected result: All checkboxes are selected
+
+Actual result: No checkboxes are selected
