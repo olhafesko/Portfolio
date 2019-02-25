@@ -1,0 +1,11 @@
+Steps to reproduce:
+
+Open File manager application
+Open any folder, which content does not fit to the set window size
+
+Expected result: Scrollbar appears when opened content does not fit to the window size
+
+Actual result: Scrollbar does not appear
+
+Priority: Normal
+

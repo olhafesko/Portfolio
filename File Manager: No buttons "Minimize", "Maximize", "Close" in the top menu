@@ -1,0 +1,9 @@
+Steps to reproduce:
+
+Open "File manager" application
+
+Expected result: Functional buttons "Minimize", "Maximize", "Close" are in the top right menu of the application window.
+
+Actual result: No functional buttons "Minimize", "Maximize", "Close" in the top right menu of the application window.
+
+Priority: Normal

@@ -1,0 +1,11 @@
+Steps to reproduce:
+
+Open File manager application
+Open any folder with content
+Check "Select all"
+
+Expected result: "Unselect all" checkbox is active
+
+Actual result: "Unselect all" checkbox is inactive
+
+Priority: Low

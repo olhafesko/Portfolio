@@ -1,0 +1,10 @@
+Steps to reproduce:
+
+Open File manager application
+
+Expected result: Button #1 is named "New Folder", button #2 named "Delete" (see attached Button Names)
+
+Actual result: Names for buttons "Delete" and "New folder" are misplaced and misleading (see attached).
+
+Priority: Normal
+

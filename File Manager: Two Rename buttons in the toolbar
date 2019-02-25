@@ -1,0 +1,9 @@
+Steps to reproduce:
+
+Open File manager application
+
+Expected result: Button "Rename" between buttons "Delete" and "Edit"
+
+Actual result: Duplicate button "Rename" after button "Edit"
+
+Priority: Normal

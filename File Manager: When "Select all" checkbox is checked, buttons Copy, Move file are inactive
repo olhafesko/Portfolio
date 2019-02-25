@@ -1,0 +1,11 @@
+Steps to reproduce:
+
+Open File manager application
+Open any folder with content
+Check "Select all" checkbox
+
+Expected result: Buttons Copy and Move file on the toolbar are active
+
+Actual result: Buttons Copy and Move file on the toolbar are not active
+
+Priority: Normal

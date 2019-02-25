@@ -6,3 +6,5 @@ Check "Select all" checkbox
 Expected result: All checkboxes are selected
 
 Actual result: No checkboxes are selected
+
+Priority: Normal
